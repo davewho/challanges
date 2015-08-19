@@ -1,4 +1,6 @@
 #include "Point.h"
+#include <iostream>
+#include <cmath>
 
 void Point::addNumber ( void )
 {
