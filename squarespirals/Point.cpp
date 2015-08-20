@@ -2,6 +2,9 @@
 #include <iostream>
 #include <cmath>
 
+double truncateDouble (double number);
+bool isEven ( double number );
+
 void Point::addNumber ( void )
 {
 	number++;
