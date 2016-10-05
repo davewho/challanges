@@ -1,3 +1,5 @@
+%% The output undoubtedly should be in (x,y) format not (y,x). So I fixed that %%
+
 Take a square grid, and put a cross on the center point, like this:
 + + + + +
 
